@@ -106,19 +106,24 @@ File upload and metadata management system.
 
 ## 🤝 Connect With Me
 
-<p align="left">
-
+<table>
+<tr>
+<td>
 <a href="mailto:shiwangchaudhary909@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+<img height="45" src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="20"></td>
 
+<td>
 <a href="https://github.com/Shiwang-Chaudhary">
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+<img height="45" src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
 
