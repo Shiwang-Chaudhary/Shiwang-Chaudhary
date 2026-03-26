@@ -1,24 +1,32 @@
-<h1 align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Shiwang%20Chaudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h2 align="center">
 Hi 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  <img src="https://raw.githubusercontent.com/username/repo/main/assets/programmer.png" width="220"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
 I'm Shiwang Chaudhary
-</h1>
+</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&lines=Flutter+Developer;Full+Stack+Learner;Building+Real+World+Apps;Learning+System+Design"/>
+</p>
+
 ---
 
 ## 📘 About Me
 
 - 🎓 B.Tech CSE Student (2nd Year / 4th Semester) at **Gurugram University**
-- 📱 Building real-world apps using **Flutter**
+- 📱 Building mobile apps using **Flutter**
 - 🌐 Learning backend using **Node.js, Express & MongoDB**
-- 🧠 Currently improving **Riverpod, System Design & Clean Architecture**
+- 🧠 Currently improving **Riverpod, Clean Architecture & System Design**
 - 🚀 Interested in scalable mobile & backend systems  
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="left"> 
+<p>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"/> 
 &nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"/> 
@@ -34,10 +42,10 @@ I'm Shiwang Chaudhary
 
 ## 🎧 Music Streaming App
 
-Playlist-based music streaming app focused on audio queue management and background playback.
+Playlist-based music streaming app focused on audio queue & background playback.
 
 - Next / Previous playback  
-- Background media controls  
+- Background notification controls  
 - Recently played using Hive  
 - Riverpod + MVVM architecture  
 - Backend using Node.js, Express & MongoDB  
@@ -52,9 +60,9 @@ https://github.com/Shiwang-Chaudhary/MusicBackend
 
 ## 💬 Chat App (Chat-Up)
 
-Real-time chat app with personal and group messaging.
+Real-time chat app with personal & group messaging.
 
-- Socket.IO messaging  
+- Socket.IO real-time messaging  
 - Media sharing via Cloudinary  
 - JWT authentication  
 - GetX reactive UI  
