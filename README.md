@@ -8,10 +8,10 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Tech CSE Student (2nd Year / 4th Semester) at **Gurugram University**
-- 📱 Learning and building real-world apps using **Flutter**
-- 🌐 Exploring **Full Stack Development (Node.js + Express + MongoDB)**
+- 📱 Building real-world mobile applications using **Flutter**
+- 🌐 Learning Full Stack Development with **Node.js, Express & MongoDB**
 - 🧠 Currently improving skills in **Riverpod, App Architecture & System Design**
-- 🚀 Interested in scalable mobile and backend systems  
+- 🚀 Interested in scalable mobile apps and backend systems  
 - 📫 Reach me at: **shiwangchaudhary909@gmail.com**
 
 ---
@@ -30,7 +30,7 @@
 
 ## 🎧 Music Streaming App
 
-A playlist-based music streaming app built using Flutter and Node.js with focus on audio state management and scalable architecture.
+A playlist-based music streaming application focused on audio state management and scalable architecture.
 
 **Features**
 - Playlist playback with next / previous controls  
@@ -52,8 +52,8 @@ A real-time chat application supporting personal and group messaging.
 **Features**
 - Real-time messaging using Socket.IO  
 - Media sharing (image, video, audio, PDF) via Cloudinary  
-- JWT based authentication and secure session handling  
-- Reactive UI using GetX state management  
+- JWT based authentication  
+- Reactive UI using GetX  
 
 **Links**
 - Frontend: https://github.com/Shiwang-Chaudhary/Chat_frontend  
@@ -63,13 +63,13 @@ A real-time chat application supporting personal and group messaging.
 
 ## 📁 P-Stor – File Storage System
 
-A cross-platform file management system for uploading and managing files with metadata.
+A file management system for uploading and managing files with metadata.
 
 **Features**
 - File upload with validation and error handling  
 - Metadata storage using MongoDB  
-- JWT authentication for secure access  
-- Optimized API request handling for improved performance  
+- JWT authentication  
+- Optimized API request handling  
 
 **Links**
 - Frontend: https://github.com/Shiwang-Chaudhary/P-Stor-frontend  
@@ -80,9 +80,19 @@ A cross-platform file management system for uploading and managing files with me
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shiwang-Chaudhary&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwang-Chaudhary&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shiwang-Chaudhary&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwang-Chaudhary&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Shiwang-Chaudhary&theme=tokyonight"/>
 </p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Riverpod & State Management  
+- Scalable Backend Architecture  
+- System Design Basics  
+- Clean Architecture in Flutter  
 
 ---
 
@@ -91,3 +101,11 @@ A cross-platform file management system for uploading and managing files with me
 <a href="mailto:shiwangchaudhary909@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
+
+<a href="https://github.com/Shiwang-Chaudhary">
+<img src="https://img.icons8.com/material-outlined/48/github.png"/>
+</a>
+
+---
+
+⭐ Always learning. Always building.
