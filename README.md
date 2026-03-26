@@ -7,41 +7,73 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Tech Student (2nd Year / 4th Semester) at **Gurugram University**
-- 📱 Learning and building mobile apps using **Flutter**
-- 🌐 Exploring **Full Stack Development (Node.js + MongoDB)**
-- 🧠 Currently improving skills in **Riverpod, App Architecture & API Integration**
-- 🚀 Interested in building real-world scalable applications
+- 🎓 B.Tech CSE Student (2nd Year / 4th Semester) at **Gurugram University**
+- 📱 Learning and building real-world apps using **Flutter**
+- 🌐 Exploring **Full Stack Development (Node.js + Express + MongoDB)**
+- 🧠 Currently improving skills in **Riverpod, App Architecture & System Design**
+- 🚀 Interested in scalable mobile and backend systems  
 - 📫 Reach me at: **shiwangchaudhary909@gmail.com**
 
 ---
 
-## 🚀 Tech Stack (Learning & Using)
+## 🚀 Tech Stack
 
 <p align="left"> 
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"/> 
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"/> 
-    <img height="40" src="https://img.icons8.com/color/48/nodejs.png"/> 
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> 
-    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"/> 
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/nodejs.png"/> 
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> 
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
 ---
 
-## 🎧 Featured Project — Music Streaming App
+## 🎧 Music Streaming App
 
-A learning project where I built a **playlist-based music app** with Flutter and a custom backend.
+A playlist-based music streaming app built using Flutter and Node.js with focus on audio state management and scalable architecture.
 
-### Features
-- Music streaming with next / previous functionality  
-- Background playback with media controls  
-- Recently played songs using local storage (Hive CE)  
-- State management using Riverpod  
-- Backend built with Node.js, Express & MongoDB  
+**Features**
+- Playlist playback with next / previous controls  
+- Background playback with media notification controls  
+- Recently played songs using Hive local storage  
+- Riverpod state management with MVVM structure  
+- Backend REST APIs using Node.js, Express & MongoDB  
 
-### Project Links
+**Links**
 - Frontend: https://github.com/Shiwang-Chaudhary/Music_frontend  
 - Backend: https://github.com/Shiwang-Chaudhary/MusicBackend  
+
+---
+
+## 💬 Chat App (Chat-Up)
+
+A real-time chat application supporting personal and group messaging.
+
+**Features**
+- Real-time messaging using Socket.IO  
+- Media sharing (image, video, audio, PDF) via Cloudinary  
+- JWT based authentication and secure session handling  
+- Reactive UI using GetX state management  
+
+**Links**
+- Frontend: https://github.com/Shiwang-Chaudhary/Chat_frontend  
+- Backend: https://github.com/Shiwang-Chaudhary/Chat_backend  
+
+---
+
+## 📁 P-Stor – File Storage System
+
+A cross-platform file management system for uploading and managing files with metadata.
+
+**Features**
+- File upload with validation and error handling  
+- Metadata storage using MongoDB  
+- JWT authentication for secure access  
+- Optimized API request handling for improved performance  
+
+**Links**
+- Frontend: https://github.com/Shiwang-Chaudhary/P-Stor-frontend  
+- Backend: https://github.com/Shiwang-Chaudhary/P-Stor_backend  
 
 ---
 
