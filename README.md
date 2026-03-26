@@ -1,21 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Shiwang Chaudhary</h1>
-<h3 align="center">Flutter & Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">Flutter & Full Stack Learner from India 🇮🇳</h3>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎯 Flutter Developer passionate about building **scalable and real-world mobile applications**
-- 🚀 Currently working on **Full Stack Music Streaming App**
-- 🌱 Learning **Advanced Riverpod, System Design & Backend Architecture**
-- 💡 Interested in **Mobile Architecture, Audio Streaming Systems & API Design**
+- 🎓 B.Tech Student (2nd Year / 4th Semester) at **Gurugram University**
+- 📱 Learning and building mobile apps using **Flutter**
+- 🌐 Exploring **Full Stack Development (Node.js + MongoDB)**
+- 🧠 Currently improving skills in **Riverpod, App Architecture & API Integration**
+- 🚀 Interested in building real-world scalable applications
 - 📫 Reach me at: **shiwangchaudhary909@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack (Learning & Using)
 
 <p align="left"> 
     <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"/> 
@@ -27,21 +28,20 @@
 
 ---
 
-## 🎧 Featured Project — Full Stack Music App
+## 🎧 Featured Project — Music Streaming App
 
-A **production-style music streaming application** built using Flutter & Node.js.
+A learning project where I built a **playlist-based music app** with Flutter and a custom backend.
 
-### ✨ Features
-- Playlist based music streaming with **Next / Previous controls**
-- Background playback with notification & lockscreen media controls
-- Recently played songs using local caching (Hive CE)
-- Clean **MVVM architecture + Riverpod state management**
-- Scalable backend using **Node.js, Express & MongoDB**
-- Media storage & optimization using **Cloudinary**
+### Features
+- Music streaming with next / previous functionality  
+- Background playback with media controls  
+- Recently played songs using local storage (Hive CE)  
+- State management using Riverpod  
+- Backend built with Node.js, Express & MongoDB  
 
-### 🔗 Project Links
-- 📱 Frontend: https://github.com/Shiwang-Chaudhary/Music_frontend  
-- 🌐 Backend: https://github.com/Shiwang-Chaudhary/MusicBackend  
+### Project Links
+- Frontend: https://github.com/Shiwang-Chaudhary/Music_frontend  
+- Backend: https://github.com/Shiwang-Chaudhary/MusicBackend  
 
 ---
 
@@ -56,11 +56,6 @@ A **production-style music streaming application** built using Flutter & Node.js
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="mailto:shiwangchaudhary909@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
-<a href="https://github.com/Shiwang-Chaudhary"><img src="https://img.icons8.com/material-outlined/48/github.png"/></a>
-</p>
-
----
-
-⭐ *Always learning. Always building.*
+<a href="mailto:shiwangchaudhary909@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
