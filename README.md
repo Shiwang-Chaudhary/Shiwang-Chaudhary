@@ -23,7 +23,7 @@
     <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"/> 
     <img height="40" src="https://img.icons8.com/color/48/nodejs.png"/> 
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> 
-    <img height="40" src="https://img.icons8.com/color/48/cloudinary.png"/> 
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
 ---
