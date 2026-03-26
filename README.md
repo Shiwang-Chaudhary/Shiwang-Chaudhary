@@ -112,7 +112,7 @@ File upload and metadata management system.
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Shiwang-Chaudhary">
 <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
