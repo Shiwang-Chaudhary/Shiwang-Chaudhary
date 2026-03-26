@@ -80,9 +80,9 @@ A file management system for uploading and managing files with metadata.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shiwang-Chaudhary&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwang-Chaudhary&layout=compact&theme=tokyonight"/>
-<img src="https://streak-stats.demolab.com?user=Shiwang-Chaudhary&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shiwang-Chaudhary&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwang-Chaudhary&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=Shiwang-Chaudhary&theme=tokyonight"/>
 </p>
 
 ---
@@ -98,13 +98,14 @@ A file management system for uploading and managing files with metadata.
 
 ## 🤝 Connect With Me
 
+<p align="left">
 <a href="mailto:shiwangchaudhary909@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
-
 <a href="https://github.com/Shiwang-Chaudhary">
-<img src="https://img.icons8.com/material-outlined/48/github.png"/>
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+</p>
 
 ---
 
