@@ -5,14 +5,13 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 📘 About Me
 
 - 🎓 B.Tech CSE Student (2nd Year / 4th Semester) at **Gurugram University**
-- 📱 Building mobile apps using **Flutter**
-- 🌐 Learning backend development using **Node.js, Express & MongoDB**
-- 🧠 Currently improving **Riverpod & App Architecture**
-- 🚀 Interested in scalable mobile and backend systems  
-- 📫 Reach me at: **shiwangchaudhary909@gmail.com**
+- 📱 Building real-world apps using **Flutter**
+- 🌐 Learning backend using **Node.js, Express & MongoDB**
+- 🧠 Currently improving **Riverpod, System Design & Clean Architecture**
+- 🚀 Interested in scalable mobile & backend systems  
 
 ---
 
@@ -34,34 +33,36 @@
 
 ## 🎧 Music Streaming App
 
-Playlist-based music streaming app focused on audio state management.
+Playlist-based music streaming app focused on audio queue management and background playback.
 
-**Features**
-- Playlist playback with next / previous  
-- Background playback with notification controls  
-- Recently played songs using Hive  
+- Next / Previous playback  
+- Background media controls  
+- Recently played using Hive  
 - Riverpod + MVVM architecture  
 - Backend using Node.js, Express & MongoDB  
 
-**Links**
-- Frontend: https://github.com/Shiwang-Chaudhary/Music_frontend  
-- Backend: https://github.com/Shiwang-Chaudhary/MusicBackend  
+🔗 Frontend:  
+https://github.com/Shiwang-Chaudhary/Music_frontend  
+
+🔗 Backend:  
+https://github.com/Shiwang-Chaudhary/MusicBackend  
 
 ---
 
 ## 💬 Chat App (Chat-Up)
 
-Real-time chat app with personal & group messaging.
+Real-time chat app with personal and group messaging.
 
-**Features**
-- Socket.IO real-time messaging  
+- Socket.IO messaging  
 - Media sharing via Cloudinary  
 - JWT authentication  
-- GetX state management  
+- GetX reactive UI  
 
-**Links**
-- Frontend: https://github.com/Shiwang-Chaudhary/Chat_frontend  
-- Backend: https://github.com/Shiwang-Chaudhary/Chat_backend  
+🔗 Frontend:  
+https://github.com/Shiwang-Chaudhary/Chat_frontend  
+
+🔗 Backend:  
+https://github.com/Shiwang-Chaudhary/Chat_backend  
 
 ---
 
@@ -69,19 +70,20 @@ Real-time chat app with personal & group messaging.
 
 File upload and metadata management system.
 
-**Features**
-- File upload with validation  
+- File validation & error handling  
 - MongoDB metadata storage  
 - JWT authentication  
-- Optimized API handling  
+- Optimized API performance  
 
-**Links**
-- Frontend: https://github.com/Shiwang-Chaudhary/P-Stor-frontend  
-- Backend: https://github.com/Shiwang-Chaudhary/P-Stor_backend  
+🔗 Frontend:  
+https://github.com/Shiwang-Chaudhary/P-Stor-frontend  
+
+🔗 Backend:  
+https://github.com/Shiwang-Chaudhary/P-Stor_backend  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
 
@@ -99,7 +101,7 @@ File upload and metadata management system.
 
 - Advanced Riverpod  
 - Backend Architecture  
-- System Swift UI basics  
+- System Design Basics  
 - Clean Architecture in Flutter  
 
 ---
@@ -110,7 +112,7 @@ File upload and metadata management system.
 <tr>
 <td>
 <a href="mailto:shiwangchaudhary909@gmail.com">
-<img height="45" src="https://img.icons8.com/color/48/gmail-new.png"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </td>
 
@@ -118,10 +120,9 @@ File upload and metadata management system.
 
 <td>
 <a href="https://github.com/Shiwang-Chaudhary">
-<img height="45" src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
-
 </tr>
 </table>
 
