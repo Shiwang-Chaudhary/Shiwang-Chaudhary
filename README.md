@@ -8,10 +8,10 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Tech CSE Student (2nd Year / 4th Semester) at **Gurugram University**
-- 📱 Building real-world mobile applications using **Flutter**
-- 🌐 Learning Full Stack Development with **Node.js, Express & MongoDB**
-- 🧠 Currently improving skills in **Riverpod, App Architecture & System Design**
-- 🚀 Interested in scalable mobile apps and backend systems  
+- 📱 Building mobile apps using **Flutter**
+- 🌐 Learning backend development using **Node.js, Express & MongoDB**
+- 🧠 Currently improving **Riverpod & App Architecture**
+- 🚀 Interested in scalable mobile and backend systems  
 - 📫 Reach me at: **shiwangchaudhary909@gmail.com**
 
 ---
@@ -20,9 +20,13 @@
 
 <p align="left"> 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"/> 
+&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"/> 
+&nbsp;&nbsp;
 <img height="40" src="https://img.icons8.com/color/48/nodejs.png"/> 
+&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> 
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
@@ -30,14 +34,14 @@
 
 ## 🎧 Music Streaming App
 
-A playlist-based music streaming application focused on audio state management and scalable architecture.
+Playlist-based music streaming app focused on audio state management.
 
 **Features**
-- Playlist playback with next / previous controls  
-- Background playback with media notification controls  
-- Recently played songs using Hive local storage  
-- Riverpod state management with MVVM structure  
-- Backend REST APIs using Node.js, Express & MongoDB  
+- Playlist playback with next / previous  
+- Background playback with notification controls  
+- Recently played songs using Hive  
+- Riverpod + MVVM architecture  
+- Backend using Node.js, Express & MongoDB  
 
 **Links**
 - Frontend: https://github.com/Shiwang-Chaudhary/Music_frontend  
@@ -47,13 +51,13 @@ A playlist-based music streaming application focused on audio state management a
 
 ## 💬 Chat App (Chat-Up)
 
-A real-time chat application supporting personal and group messaging.
+Real-time chat app with personal & group messaging.
 
 **Features**
-- Real-time messaging using Socket.IO  
-- Media sharing (image, video, audio, PDF) via Cloudinary  
-- JWT based authentication  
-- Reactive UI using GetX  
+- Socket.IO real-time messaging  
+- Media sharing via Cloudinary  
+- JWT authentication  
+- GetX state management  
 
 **Links**
 - Frontend: https://github.com/Shiwang-Chaudhary/Chat_frontend  
@@ -63,13 +67,13 @@ A real-time chat application supporting personal and group messaging.
 
 ## 📁 P-Stor – File Storage System
 
-A file management system for uploading and managing files with metadata.
+File upload and metadata management system.
 
 **Features**
-- File upload with validation and error handling  
-- Metadata storage using MongoDB  
+- File upload with validation  
+- MongoDB metadata storage  
 - JWT authentication  
-- Optimized API request handling  
+- Optimized API handling  
 
 **Links**
 - Frontend: https://github.com/Shiwang-Chaudhary/P-Stor-frontend  
@@ -80,18 +84,22 @@ A file management system for uploading and managing files with metadata.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shiwang-Chaudhary&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwang-Chaudhary&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-<img height="170em" src="https://streak-stats.demolab.com?user=Shiwang-Chaudhary&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiwang-Chaudhary&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiwang-Chaudhary&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Shiwang-Chaudhary&theme=tokyonight"/>
+
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Riverpod & State Management  
-- Scalable Backend Architecture  
-- System Design Basics  
+- Advanced Riverpod  
+- Backend Architecture  
+- System Swift UI basics  
 - Clean Architecture in Flutter  
 
 ---
@@ -99,13 +107,24 @@ A file management system for uploading and managing files with metadata.
 ## 🤝 Connect With Me
 
 <p align="left">
+
 <a href="mailto:shiwangchaudhary909@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Shiwang-Chaudhary">
 <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+
 </p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Shiwang-Chaudhary&label=Profile%20views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/Shiwang-Chaudhary?label=Followers&style=social"/>
 
 ---
 
