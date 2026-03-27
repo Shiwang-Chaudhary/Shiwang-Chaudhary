@@ -9,7 +9,7 @@ I'm Shiwang Chaudhary
 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&lines=Flutter+Developer;Full+Stack+Learner;Building+Real+World+Apps;Learning+System+Design"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&lines=Flutter+Developer;Full+Stack+Learner;Building+Real+World+Apps;"/>
 </p>
 
 ---
