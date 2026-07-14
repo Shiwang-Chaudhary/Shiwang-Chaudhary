@@ -16,10 +16,10 @@ I'm Shiwang Chaudhary
 
 ## 📘 About Me
 
-- 🎓 B.Tech CSE Student (2nd Year / 4th Semester) at **Gurugram University**
+- 🎓 B.Tech CSE Student (3rd Year / 5th Semester) at **Gurugram University**
 - 📱 Building mobile apps using **Flutter**
 - 🌐 Learning backend using **Node.js, Express & MongoDB**
-- 🧠 Currently improving **Riverpod, Clean Architecture & System Design**
+- 🧠 Currently improving **Riverpod, Clean Architecture**
 - 🚀 Interested in scalable mobile & backend systems  
 
 ---
